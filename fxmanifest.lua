@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 
-author 'Ziggy'
-description 'Project Windy RP Gun jam script'
+author 'Tab&Ziggy'
+description 'Gun Jamming Script'
 version '1.0.0'
 
 -- What to run
