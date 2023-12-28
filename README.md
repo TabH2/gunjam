@@ -1,2 +1,10 @@
-A simple gunjam script made in LUA for fivem. This script jams your gun based on a random number (can change in client.lua).
-Made by Wilson and Ziggy
+# Tab's Scripts
+This is a simple custom script designed to modify the standard functionality of firearms. This script allows players to experience a more realistic enviroment by randomly jamming the firearm based on a low chance, The frequency of jamming events can be adjusted to suit the preferences of the players and the server administrators through the cl_gunjam.lua file. The script causes weapons to malfunction at unpredictable moments during gameplay. The script can also include functionality for recovering from a weapon jam, by holding down the "E" key for 3 seconds, players will be able to "unjam" their weapon.
+
+# Prerequisites
+- DPEmotes (https://github.com/andristum/dpemotes)
+- SmartSounds (https://github.com/LondonStudios/SmartSounds)
+
+# Contributors
+- Tab
+- Ziggy
